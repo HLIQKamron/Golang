@@ -8,15 +8,3 @@ func main() {
 	a[4] = "4"
 	fmt.Println(a)
 }
-func init(){
-
-}
-func init(){
-	
-}
-func init(){
-	
-}
-func init(){
-	
-}
